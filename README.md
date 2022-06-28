@@ -1,6 +1,6 @@
 # Digibee - Components
 
-Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com).
+Digibee [Components](http://gatsbyjs.com/) blog powered by [Digibee](https://www.contentful.com).
 
 ![An article page of the starter blog](./screenshot.png "An article page of the starter blog")
 
